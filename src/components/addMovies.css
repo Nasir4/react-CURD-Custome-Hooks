@@ -1,0 +1,17 @@
+.formSty input {
+  width: 200px;
+  padding: 8px;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.formSty button {
+  display: block;
+  padding: 10px;
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  font-weight: 900;
+  border-radius: 20px;
+  cursor: pointer;
+}
